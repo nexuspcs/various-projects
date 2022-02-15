@@ -1,1 +1,0 @@
-Example code for tutorial "Introduction in Windows Message Hooking"

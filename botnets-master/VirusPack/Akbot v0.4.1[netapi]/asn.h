@@ -1,1 +1,0 @@
-DWORD WINAPI asn_exploit(void *param);

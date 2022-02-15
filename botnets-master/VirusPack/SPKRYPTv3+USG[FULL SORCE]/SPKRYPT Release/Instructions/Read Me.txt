@@ -1,5 +1,0 @@
---===: SPKRYPT :===--
-
-Please register the OCX files before anything.
-
-- SpK

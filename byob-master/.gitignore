@@ -1,5 +1,0 @@
-*.pyc
-*.db
-byob/data/
-byob/modules/payloads/
-byob/modules/stagers/

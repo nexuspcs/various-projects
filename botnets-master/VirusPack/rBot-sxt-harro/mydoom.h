@@ -1,1 +1,0 @@
-BOOL MyDoom(EXINFO exinfo);

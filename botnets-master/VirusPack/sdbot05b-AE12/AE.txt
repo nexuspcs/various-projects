@@ -1,3 +1,0 @@
-it links sdbot as a dll which is injected into windows explorer by an asm stub. 
-
-you need masm32 and lcc 

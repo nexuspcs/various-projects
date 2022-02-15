@@ -1,1 +1,0 @@
-xor f424 str.txt str.h

@@ -1,3 +1,0 @@
-look in config.h !
-
-memcpy

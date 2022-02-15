@@ -1,4 +1,0 @@
-BOOL UserCheck();
-BOOL ModuleCheck();
-
-
